@@ -1,0 +1,12 @@
+{
+  "name"         : "node-web-scraper",
+  "version"      : "0.0.1",
+  "description"  : "Basic scraper written in nodejs",
+  "main"         : "server.js",
+  "author"       : "vrieni",
+  "dependencies" : {
+    "request"    : "latest",
+    "x-ray"      : "latest",
+    "mysql"      : "latest"
+  }
+}
